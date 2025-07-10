@@ -11,15 +11,15 @@ export default function About() {
               <div>
                 <h3 className="text-xl font-bold text-white">Ariestio Dava Pratama – Data Scientist</h3>
                 <p className="mt-2 leading-relaxed text-gray-300">
-                    I'm an Informatics Engineering student with a strong interest in data.
-                    Whether it's numbers, text, or visuals, I enjoy turning raw data into something meaningful.
+                    I&#39;m an Informatics Engineering student with a strong interest in data.
+                    Whether it&#39;s numbers, text, or visuals, I enjoy turning raw data into something meaningful.
                 </p>
                 <p className="mt-2 leading-relaxed text-gray-300">
                     My passion for data started from my love for math and statistics, which eventually led me to explore the field of data science.
                     I especially enjoy working with Python, Machine Learning, Deep Learning especially focusing on Natural Language Processing.
                 </p>
                 <p className="mt-2 leading-relaxed text-gray-300">
-                    Along the way, I've become comfortable using libraries and tools like Tensorflow, Pandas, Scikit-Learn, Matplotlib, and more.
+                    Along the way, I&#39;ve become comfortable using libraries and tools like Tensorflow, Pandas, Scikit-Learn, Matplotlib, and more.
                     I like exploring data, discovering patterns, and turning them into insights that matter.
                 </p>
               </div>
