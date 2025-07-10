@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="text-gray-400 px-6 py-12 mt-24 text-sm">
       <div className="max-w-4xl mx-auto text-center space-y-4">
         <h2 className="text-white text-xl font-bold">
-          Let's build something awesome together <span className="text-cyan-400">🚀</span>
+          Let&#39;s build something awesome together <span className="text-cyan-400">🚀</span>
         </h2>
         <p>
           Whether it is a project, an opportunity, or just a conversation, I am all ears. Feel free to send a message anytime.
