@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="space-y-6 max-w-4xl text-center md:text-left">
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight space-y-1">
           <span className="block">
-            Hi, I'm{" "}
+            Hi, I&#39;m{" "}
             <span className="relative group">
               <a href="#about" className="text-emerald-400 transition font-bold group-hover:brightness-125">
                 Ariestio Dava Pratama
@@ -54,7 +54,7 @@ export default function Hero() {
             href="#about"
             className="text-sm uppercase tracking-wider text-emerald-400 hover:underline underline-offset-4"
           >
-            Let's dive in ↓
+            Let&#39;s dive in ↓
           </a>
         </div>
       </div>
